@@ -28,4 +28,18 @@
 # print(a.expandtabs(4))
 # print(a.expandtabs(10))
 
+#find()
+# a = "the life is great"
+# print(a.find("s"))
+
+# a = "the life is great"
+# print(a.find("f", 5, 10))
+
+# a = "the life is great"
+# print(a.find("great"))
+
+# a = "the life is great"
+# print(a.find("q"))
 #
+# print(a.index("q"))
+
